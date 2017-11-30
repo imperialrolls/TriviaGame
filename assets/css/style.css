@@ -21,9 +21,9 @@ footer.page-footer {
 }
 
 
-/*****************
-Parallax and Page Styling
-******************/
+/*
+Container and Page Styling
+*/
 
 .parallax-container {
     height: 1010px;
@@ -79,13 +79,13 @@ Parallax and Page Styling
 
 
 
-/******************
-******************/
+/*
+*/
 
 
-/**********************
+/*
     BUTTON STYLING
-***********************/
+*/
 
 #buttonRow {
     margin-top: 130px;
@@ -105,9 +105,9 @@ Parallax and Page Styling
 }
 
 
-/********************
+/*
   QUESTIONS STYLES
-*********************/
+*/
 
 #questionSpace {
     color: #fff;
@@ -124,8 +124,8 @@ Parallax and Page Styling
 }
 
 
-/********************
-*********************/
+/*
+*/
 
 #timer {
     color: #e74c3c;
@@ -133,9 +133,9 @@ Parallax and Page Styling
 }
 
 
-/********************
+/*
   ANSWERS STYLES
-*********************/
+*/
 
 #choices {
     font-size: 23px;

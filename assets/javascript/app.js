@@ -97,7 +97,7 @@ $(document).ready(function() {
         },
         // question 6
         {
-            "q": "On average, cats spend how much of their every day sleeping?",
+            "q": "On average, cats spend how much of their day sleeping?",
             "c": ["1/4", "2/3", "1/2"],
             "answer": 1
         },
